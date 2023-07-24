@@ -1,1 +1,3 @@
 - 👋 Hi, I’m @sanjxnaa
+- https://www.kaggle.com/sanjxnaa
+- https://www.linkedin.com/in/sanjana-gowda-cs/
